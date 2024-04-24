@@ -6,8 +6,8 @@
   "icons": {
     "128": "icon.png"
   },
-    {
-      "description": "Ctrl+H"
+    
+      {"description": "Ctrl+H"
     },
     "ACCESS_DOWNLOADS": {
       "description": "Ctrl+J"
