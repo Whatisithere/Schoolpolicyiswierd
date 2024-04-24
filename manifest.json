@@ -6,7 +6,7 @@
   "icons": {
     "128": "icon.png"
   },
-
+  {
     "ACCESS_DOWNLOADS": {
       "description": "Ctrl+J"
     },
